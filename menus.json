@@ -1,97 +1,97 @@
 [{
-    "_id": {
-      "$oid": "5eee651f739f8c674fd736ee"
-    },
-    "name": "French Fries",
-    "image": "1.png",
-    "price": "4.99",
-    "size": "regular"
-  },{
-    "_id": {
-      "$oid": "5eee6671a27a66807cf2bea3"
-    },
-    "name": "Chicken Wings",
-    "image": "2.png",
-    "price": "13.99",
-    "size": "regular"
-  },{
-    "_id": {
-      "$oid": "5eee6692a27a66807cf2bea4"
-    },
-    "name": "Margherita",
-    "image": "3.png",
-    "price": "24.99",
-    "size": "regular"
-  },{
-    "_id": {
-      "$oid": "5eee66a5a27a66807cf2bea5"
-    },
-    "name": "Chicken Burger",
-    "image": "4.png",
-    "price": "9.99",
-    "size": "regular"
-  },{
-    "_id": {
-      "$oid": "5eee66c4a27a66807cf2bea6"
-    },
-    "name": "Fresh Salad",
-    "image": "5.png",
-    "price": "10.99",
-    "size": "regular"
-  },{
-    "_id": {
-      "$oid": "5eee66cfa27a66807cf2bea7"
-    },
-    "name": "Chicken Soup",
-    "image": "6.png",
-    "price": "4.99",
-    "size": "regular"
-  },{
-    "_id": {
-      "$oid": "5eee66eea27a66807cf2bea8"
-    },
-    "name": "Chicken Soup",
-    "image": "7.png",
-    "price": "9.99",
-    "size": "regular"
-  },{ 
-    "_id": {
-      "$oid": "5eee6717a27a66807cf2bea9"
-    },
-    "name": "Taco",
-    "image": "8.png",
-    "price": "5.99",
-    "size": "regular"
-  },{ 
-    "_id": {
-      "$oid": "5eee6717a27a66807cf2be10"
-    },
-    "name": "Mac & Cheese",
-    "image": "9.png",
-    "price": "5.99",
-    "size": "regular"
-  },{ 
-    "_id": {
-      "$oid": "5eee6717a27a66807cf2be11"
-    },
-    "name": "Ice Cream",
-    "image": "10.png",
-    "price": "5.99",
-    "size": "regular"
-  },{ 
-    "_id": {
-      "$oid": "5eee6717a27a66807cf2be12"
-    },
-    "name": "Cookies",
-    "image": "11.png",
-    "price": "4.99",
-    "size": "regular"
-  },{ 
-    "_id": {
-      "$oid": "5eee6717a27a66807cf2be13"
-    },
-    "name": "Chocolate Milkshake",
-    "image": "12.png",
-    "price": "3.99",
-    "size": "regular"
-  }]
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "French Fries",
+  "image": "1.png",
+  "price": "4.99",
+  "size": "regular"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Chicken Wings",
+  "image": "2.png",
+  "price": "13.99",
+  "size": "regular"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Margherita",
+  "image": "3.png",
+  "price": "24.99",
+  "size": "regular"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Chicken Burger",
+  "image": "4.png",
+  "price": "9.99",
+  "size": "regular"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Fresh Salad",
+  "image": "5.png",
+  "price": "10.99",
+  "size": "regular"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Chicken Soup",
+  "image": "6.png",
+  "price": "4.99",
+  "size": "regular"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Chicken Soup",
+  "image": "7.png",
+  "price": "9.99",
+  "size": "regular"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Taco",
+  "image": "8.png",
+  "price": "5.99",
+  "size": "regular"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2be10"
+  },
+  "name": "Mac & Cheese",
+  "image": "9.png",
+  "price": "5.99",
+  "size": "regular"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2be11"
+  },
+  "name": "Ice Cream",
+  "image": "10.png",
+  "price": "5.99",
+  "size": "regular"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2be12"
+  },
+  "name": "Cookies",
+  "image": "11.png",
+  "price": "4.99",
+  "size": "regular"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2be13"
+  },
+  "name": "Chocolate Milkshake",
+  "image": "12.png",
+  "price": "3.99",
+  "size": "regular"
+}]
